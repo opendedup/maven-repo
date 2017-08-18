@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.opendedupe</groupId>
-  <artifactId>grpc</artifactId>
+  <artifactId>odd-grpc</artifactId>
   <versioning>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20170818230844</lastUpdated>
+    <lastUpdated>20170818231712</lastUpdated>
   </versioning>
 </metadata>
