@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=rabin-1.0.1.jar -DgroupId=org.opendedupe -DartifactId=rabinwindow -Dversion=1.0.1 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=external-sdk
