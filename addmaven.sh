@@ -1,1 +1,1 @@
-mvn install:install-file -Dfile=rabin-1.0.1.jar -DgroupId=org.opendedupe -DartifactId=rabinwindow -Dversion=1.0.1 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=external-sdk
+"c:\Program Files\apache\apache-maven-3.5.0\bin\mvn" install:install-file -Dfile=fuse-1.0.1.jar -DgroupId=org.opendedupe -DartifactId=fuse -Dversion=1.0.1 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=external-sdk
